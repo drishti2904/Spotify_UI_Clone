@@ -36,7 +36,10 @@ This project is a simple front-end clone of the Spotify Web Player, built using 
 - Improve responsiveness for better mobile support.
 
 ## Screenshot
-![Preview](screenshot.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## Author
 Developed by **Drishti Porwal**
